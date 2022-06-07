@@ -5,5 +5,5 @@ testBadSkillCreation
 
 	self
 		should: [ Skill newWith: '' ]
-		raise: BadArgument
+		raise: AssertionFailure 
 		description: 'An empty skill didnt trigger an exception'
