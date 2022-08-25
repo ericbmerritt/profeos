@@ -1,5 +1,5 @@
 tests
-testBadSkillCreation
+testBadNewWith
 
 	"Test creation of a skill"
 

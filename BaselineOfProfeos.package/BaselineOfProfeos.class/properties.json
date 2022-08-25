@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricMerritt 9/23/2022 11:53",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfProfeos",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfProfeos",
+	"type" : "normal"
+}

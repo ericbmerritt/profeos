@@ -1,0 +1,4 @@
+tests
+testNewWith
+
+	self testInitializeWith

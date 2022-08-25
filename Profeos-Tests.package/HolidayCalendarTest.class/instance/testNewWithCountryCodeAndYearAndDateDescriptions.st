@@ -1,0 +1,4 @@
+tests
+testNewWithCountryCodeAndYearAndDateDescriptions
+
+	self testInitializeWithCountryCodeAndYearAndDateDescriptions 

@@ -1,0 +1,4 @@
+tests
+testNewWithHolidaysAndMonAndTueAndWedAndThuAndFriAndSatAndSun
+
+	self testInitializeWithHolidaysAndMonAndTueAndWedAndThuAndFriAndSatAndSun

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EricMerritt 9/21/2022 21:27",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dayDefaults",
+		"holidayCalendars"
+	],
+	"name" : "WorkSchedule",
+	"type" : "normal"
+}
