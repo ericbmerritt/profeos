@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "EricMerritt 6/7/2022 11:39",
 	"super" : "Object",
-	"category" : "Profeos",
+	"category" : "Profeos-Base",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

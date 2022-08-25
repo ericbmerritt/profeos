@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "EricMerritt 8/27/2022 12:59",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"name",
+		"skills",
+		"schedule"
+	],
+	"name" : "Worker",
+	"type" : "normal"
+}

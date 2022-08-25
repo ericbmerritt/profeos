@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "EricMerritt 9/18/2022 15:29",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isoCountryCode",
+		"year",
+		"dates"
+	],
+	"name" : "HolidayCalendar",
+	"type" : "normal"
+}

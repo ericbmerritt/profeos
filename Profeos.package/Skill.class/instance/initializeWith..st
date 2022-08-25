@@ -1,6 +1,5 @@
 accessing
 initializeWith: aSkill
-
 	"Set the internal value of the skill variable to aSkill"
 
 	self

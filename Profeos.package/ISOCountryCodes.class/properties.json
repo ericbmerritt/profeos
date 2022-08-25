@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "EricMerritt 9/12/2022 09:46",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"IsoCodes"
+	],
+	"instvars" : [ ],
+	"name" : "ISOCountryCodes",
+	"type" : "normal"
+}

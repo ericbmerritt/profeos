@@ -1,5 +1,5 @@
 tests
-testSkillCreation
+testInitializeWith
 
 	"Test that skills can be created and that two skills with the same string name are equal"
 

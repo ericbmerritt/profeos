@@ -1,0 +1,4 @@
+tests
+testInitializeWithId
+
+	self testId
