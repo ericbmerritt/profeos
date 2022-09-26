@@ -1,0 +1,4 @@
+test
+testInitializeWithIdAndDependenciesAndSkillsAndSubGoalsAndWork
+
+	self testId
