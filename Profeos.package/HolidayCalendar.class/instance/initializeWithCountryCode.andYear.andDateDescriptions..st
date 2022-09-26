@@ -19,7 +19,5 @@ initializeWithCountryCode: aCode andYear: aYear andDateDescriptions: allHolidays
 
 	isoCountryCode := aCode.
 	year := aYear.
-	dates := Dictionary newFrom:
-		         (allHolidays collect: [ :holidayDesc | 
-			          ((holidayDesc at: 'date')
-			           -> (holidayDesc at: 'name')) ])
+	dates := Dictionary newFrom: (allHolidays collect: [ :holidayDesc | 
+			          (holidayDesc at: 'date') -> (holidayDesc at: 'name') ])
