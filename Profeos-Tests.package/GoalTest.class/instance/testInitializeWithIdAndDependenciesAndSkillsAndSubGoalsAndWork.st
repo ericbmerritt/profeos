@@ -1,4 +1,0 @@
-test
-testInitializeWithIdAndDependenciesAndSkillsAndSubGoalsAndWork
-
-	self testId

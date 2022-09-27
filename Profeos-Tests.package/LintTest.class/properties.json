@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"super" : "TestCase",
 	"category" : "Profeos-Tests-Tests",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "GoalTest",
+	"name" : "LintTest",
 	"type" : "normal"
 }

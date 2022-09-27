@@ -1,1 +1,0 @@
-A GoalTest is a test class for testing the behavior of Goal
