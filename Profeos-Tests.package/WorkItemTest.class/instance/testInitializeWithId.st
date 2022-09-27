@@ -1,4 +1,0 @@
-tests
-testInitializeWithId
-
-	self testNewWithId
