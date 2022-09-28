@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "LintTest",
+	"name" : "SystemChecksAndLintsTest",
 	"type" : "normal"
 }
