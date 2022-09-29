@@ -3,7 +3,7 @@ testP5
 
 	| p5 estimate |
 	p5 := 1.
-	estimate := WorkingTimeRange newWith: p5 and: 9.
+	estimate := WorkingTimeRange newWithP5: p5 andP95: 9.
 	self
 		assert: [ p5 = estimate p5 ]
 		description:

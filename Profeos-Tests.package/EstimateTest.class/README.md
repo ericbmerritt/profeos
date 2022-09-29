@@ -1,0 +1,1 @@
+An EstimateTest is a test class for testing the behavior of Estimate

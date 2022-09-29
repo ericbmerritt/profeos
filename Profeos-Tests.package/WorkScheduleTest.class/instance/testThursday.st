@@ -3,13 +3,13 @@ testThursday
 
 	| schedule schedule2 holidays mon tue wed thu fri sat sun |
 	holidays := HolidayCalendarTest new initializeCalendar.
-	mon := WorkingTimeRange newWith: 6 and: 11.
-	tue := WorkingTimeRange newWith: 3 and: 20.
-	wed := WorkingTimeRange newWith: 3 and: 6.
-	thu := WorkingTimeRange newWith: 5 and: 11.
-	fri := WorkingTimeRange newWith: 5 and: 11.
-	sat := WorkingTimeRange newWith: 2 and: 11.
-	sun := WorkingTimeRange newWith: 6 and: 11.
+	mon := WorkingTimeRange newWithP5: 6 andP95: 11.
+	tue := WorkingTimeRange newWithP5: 3 andP95: 20.
+	wed := WorkingTimeRange newWithP5: 3 andP95: 6.
+	thu := WorkingTimeRange newWithP5: 4 andP95: 12.
+	fri := WorkingTimeRange newWithP5: 5 andP95: 11.
+	sat := WorkingTimeRange newWithP5: 6 andP95: 15.
+	sun := WorkingTimeRange newWithP5: 5 andP95: 11.
 
 	schedule := WorkSchedule
 		            newWithHolidays: holidays

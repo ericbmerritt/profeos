@@ -1,0 +1,3 @@
+accessing
+minDays
+	^ 0

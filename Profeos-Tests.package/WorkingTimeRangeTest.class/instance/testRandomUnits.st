@@ -6,7 +6,7 @@ testRandomUnits
 	| p5 p95 result estimate |
 	p5 := 1.
 	p95 := 5.
-	estimate := WorkingTimeRange newWith: p5 and: p95.
+	estimate := WorkingTimeRange newWithP5: p5 andP95: p95.
 	result := estimate randomUnits.
 	self
 		assert: [ result >= 0 ]

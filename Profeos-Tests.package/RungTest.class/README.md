@@ -1,0 +1,1 @@
+A RungTest is a test class for testing the behavior of Rung

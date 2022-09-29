@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "EricMerritt 10/22/2022 14:54",
+	"super" : "CCStrategy",
+	"category" : "Profeos-CanonCheck-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CCCharacterStrategy",
+	"type" : "normal"
+}

@@ -3,11 +3,11 @@ createSchedule
 
 	| holidays mon tue wed thu fri sat sun |
 	holidays := { HolidayCalendarTest new initializeCalendar }.
-	mon := WorkingTimeRange newWith: 5 and: 11.
-	tue := WorkingTimeRange newWith: 5 and: 11.
-	wed := WorkingTimeRange newWith: 5 and: 11.
-	thu := WorkingTimeRange newWith: 5 and: 11.
-	fri := WorkingTimeRange newWith: 5 and: 11.
+	mon := WorkingTimeRange newWithP5: 5 andP95: 11.
+	tue := WorkingTimeRange newWithP5: 5 andP95: 11.
+	wed := WorkingTimeRange newWithP5: 5 andP95: 11.
+	thu := WorkingTimeRange newWithP5: 5 andP95: 11.
+	fri := WorkingTimeRange newWithP5: 5 andP95: 11.
 	sat := nil.
 	sun := nil.
 

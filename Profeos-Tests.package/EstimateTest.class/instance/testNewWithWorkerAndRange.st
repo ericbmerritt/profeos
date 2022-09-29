@@ -1,0 +1,4 @@
+tests
+testNewWithWorkerAndRange
+
+	self testInitializeWithWorkerAndRange 

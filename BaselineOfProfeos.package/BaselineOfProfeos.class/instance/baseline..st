@@ -2,12 +2,13 @@ baselines
 baseline: spec
 
 	<baseline>
-	spec for: #common do: [ 
-		"Dependencies"
-			self polyMath:  spec.
-			self neoJSON: spec.
-			self faker: spec.
-			"Packages"
+	spec for: #common do: [ "Dependencies"
+		self polyMath: spec.
+		self neoJSON: spec.
+		self faker: spec.
+		"Packages"
 		spec
-			package: 'Profeos';
-			package: 'Profeos-Tests' with: [ spec requires: #('Profeos') ] ]
+			package: 'Profeos'
+			with: [ spec requires: #( 'NeoJSON' 'PolyMath' ) ];
+			package: 'Profeos-Tests'
+			with: [ spec requires: #( 'Profeos' 'Faker' ) ] ]

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "EricMerritt 9/27/2022 11:41",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"prereqLadders",
+		"prereqRungs",
+		"skills",
+		"team",
+		"ladders",
+		"rungs"
+	],
+	"name" : "TechLadder",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EricMerritt 9/27/2022 07:51",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"workers"
+	],
+	"name" : "Team",
+	"type" : "normal"
+}

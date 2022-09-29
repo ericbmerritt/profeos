@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "EricMerritt 9/28/2022 15:50",
+	"super" : "Object",
+	"category" : "Profeos-Base",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"prereqLadders",
+		"prereqRungs",
+		"skills",
+		"team",
+		"estimates"
+	],
+	"name" : "Rung",
+	"type" : "normal"
+}
