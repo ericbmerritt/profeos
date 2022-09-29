@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "EricMerritt 9/23/2022 11:53",
 	"super" : "BaselineOf",
-	"category" : "BaselineOfProfeos",
+	"category" : "BaselineOfProfeos-Base",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

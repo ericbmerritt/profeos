@@ -6,6 +6,7 @@ baseline: spec
 		"Dependencies"
 			self polyMath:  spec.
 			self neoJSON: spec.
+			self faker: spec.
 			"Packages"
 		spec
 			package: 'Profeos';
