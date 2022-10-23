@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "EricMerritt 10/22/2022 17:36",
+	"super" : "Object",
+	"category" : "Profeos-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"id",
+		"username",
+		"email",
+		"password"
+	],
+	"name" : "PUIUser",
+	"type" : "normal"
+}

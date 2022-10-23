@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "EricMerritt 10/22/2022 17:28",
+	"super" : "Object",
+	"category" : "Profeos-UI",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"date",
+		"description"
+	],
+	"name" : "PUITimelineEntry",
+	"type" : "normal"
+}
