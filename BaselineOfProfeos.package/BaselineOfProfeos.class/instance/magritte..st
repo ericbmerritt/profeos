@@ -4,4 +4,4 @@ magritte: spec
 	spec baseline: 'Magritte' with: [ 
 		spec
 			repository: 'github://magritte-metamodel/magritte:v3.8';
-			loads: #( deafult Seaside ) ]
+			loads: #( default Seaside ) ]
