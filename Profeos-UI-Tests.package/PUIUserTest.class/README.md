@@ -1,0 +1,1 @@
+A PUIUserTest is a test class for testing the behavior of PUIUser

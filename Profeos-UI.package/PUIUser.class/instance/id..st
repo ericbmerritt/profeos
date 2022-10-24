@@ -1,4 +1,5 @@
 accessing
-id: anObject
+id: anId
 
-	id := anObject
+	self class validateId: anId.
+	id := anId

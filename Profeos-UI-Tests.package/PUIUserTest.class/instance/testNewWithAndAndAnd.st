@@ -1,0 +1,4 @@
+tests
+testNewWithAndAndAnd
+
+	self testInitializeWithAndAndAnd 
