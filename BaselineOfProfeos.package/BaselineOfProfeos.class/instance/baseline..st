@@ -17,5 +17,4 @@ baseline: spec
 				with: [ spec requires: #( 'Profeos' 'Faker' ) ] ];
 		package: 'Profeos-UI' with: [ 
 		spec
-			requires: #( 'Profeos' 'Seaside3' 'Magritte' );
-			loads: #( Core 'Magritte-Seaside' ) ]
+			requires: #( 'Profeos' 'Seaside3' 'Magritte' ) ]
